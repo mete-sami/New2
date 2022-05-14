@@ -1,1 +1,1 @@
-Dilek bana git öğretiyor. tşkler dilek hanım .
+SQL 14.05.2022
