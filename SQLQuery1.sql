@@ -11,12 +11,13 @@ create table Member(
 	Village nvarchar(max)
 )
 create table Products1(
+ID int PRIMARY KEY IDENTITY,	
 DateOfReceipt datetime,
 CauseOfTrouble nvarchar(max),
-TechnicService›nfo nvarchar(max),
+TechnicService√ùnfo nvarchar(max),
 DefectiveCategory nvarchar(max),
 ServicePrice nvarchar(max),
 DeliveryDate date,
-Personnel›nfo nvarchar(max),
+Personnel√ùnfo nvarchar(max),
 TechnicalCondition nvarchar(max)
 )
